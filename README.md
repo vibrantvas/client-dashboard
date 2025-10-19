@@ -132,16 +132,16 @@ const config = {
   // Appearance
   theme: 'light', // 'light' or 'dark'
   accentColor: '#F85D7F', // Primary brand color
-  
+
   // Behavior
   notifications: true,
   autoSave: true,
   autoSaveInterval: 30000, // 30 seconds
-  
+
   // Data
   refreshInterval: 30000, // Refresh data every 30 seconds
   cacheEnabled: true,
-  
+
   // Features
   enableTimeTracking: true,
   enableFileUpload: true,
@@ -214,10 +214,10 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 Systems Integration Extraordinaire & AI Management Expert  
 Founder, Vibrant VA Services
 
-- 📧 Email: [vibrantvaservices@gmail.com](mailto:vibrantvaservices@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/vibrantvas](https://linkedin.com/in/vibrantvas)
-- 🐙 GitHub: [@vibrantvas](https://github.com/vibrantvas)
-- 📂 Portfolio: [github.com/vibrantvas/portfolio](https://github.com/vibrantvas/portfolio)
+- 📧 Email: vibrantvaservices@gmail.com
+- 💼 LinkedIn: linkedin.com/in/vibrantvas
+- 🐙 Credentials: credential.net/profile/ash-devry/wallet
+- 📂 Portfolio: github.com/vibrantvas/portfolio
 
 ## 🙏 Acknowledgments
 
@@ -232,3 +232,4 @@ Founder, Vibrant VA Services
 
 *Made with 💜 by Vibrant VA Services*  
 *Streamlining client management, one project at a time*
+
