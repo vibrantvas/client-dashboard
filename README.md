@@ -214,10 +214,10 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 Systems Integration Extraordinaire & AI Management Expert  
 Founder, Vibrant VA Services
 
-- 📧 Email: vibrantvaservices@gmail.com
-- 💼 LinkedIn: linkedin.com/in/vibrantvas
-- 🐙 Credentials: credential.net/profile/ash-devry/wallet
-- 📂 Portfolio: github.com/vibrantvas/portfolio
+- 📧 [Email](mailto:vibrantvaservices@gmail.com)
+- 💼 [LinkedIn](linkedin.com/in/vibrantvas)
+- 🐙 [Credentials](credential.net/profile/ash-devry/wallet)
+- 📂 [Portfolio](github.com/vibrantvas/portfolio)
 
 ## 🙏 Acknowledgments
 
