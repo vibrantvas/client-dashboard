@@ -3,7 +3,7 @@
 > Real-time project tracking and client communication made simple
 
 ![Status](https://img.shields.io/badge/status-beta-green)
-![Version](https://img.shields.io/badge/version-0.9.0-blue)
+![Version](https://img.shields.io/badge/version-0.1.0-blue)
 ![Impact](https://img.shields.io/badge/communication-50%25%20faster-success)
 
 ## 📝 Description
